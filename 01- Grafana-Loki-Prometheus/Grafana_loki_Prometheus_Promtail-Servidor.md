@@ -1,3 +1,8 @@
+**Autor:** Pablo Mongar (Técnico ASIR)  
+**Proyecto:** Stack de monitorización PLG  
+**Contacto:** pmongber@gmail.com  
+**LinkedIn:** linkedin.com/in/pmongar
+
 # Instalación y configuración del servidor en Debian 12
 
 Este documento describe los pasos completos para instalar y configurar **Prometheus**, **Grafana** y **Loki** (junto con **Promtail**) para obtener un stack de monitorización funcional.
