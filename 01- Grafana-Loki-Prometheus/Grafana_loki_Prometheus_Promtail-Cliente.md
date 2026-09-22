@@ -1,9 +1,9 @@
----
+
 **Autor:** Pablo Mongar (Técnico ASIR)  
 **Proyecto:** Stack de monitorización PLG  
 **Contacto:** pmongber@gmail.com  
 **LinkedIn:** linkedin.com/in/pmongar
----
+
 # Instalación y configuración del cliente
 
 # En el cliente Linux
