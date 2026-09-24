@@ -4,7 +4,7 @@
 **Contacto:** pmongber@gmail.com  
 **LinkedIn:** linkedin.com/in/pmongar
 
-# Clúster de Alta Disponibilidad de PostgreSQL - Guía de Operaciones (Runbook)
+# Clúster de Alta Disponibilidad de PostgreSQL
 
 Esta guía documenta cómo desplegar un clúster de Alta Disponibilidad (HA) de PostgreSQL listo para producción utilizando **etcd**, **Patroni**, **HAProxy**, **Keepalived** y **PostgreSQL 17** en tres nodos.
 
