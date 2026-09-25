@@ -6,7 +6,7 @@
 
 # Replicación lógica (Patroni Publisher + PostgreSQL)
 
-Publicador (Patroni Leader): <ip_publicador>
+Publicador (Patroni Leader): <ip_publicador>  
 Suscriptor (PostgreSQL 17 independiente): <ip_suscriptor>
 
 ## Configuración previa y personalización
